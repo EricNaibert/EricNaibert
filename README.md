@@ -1,6 +1,7 @@
 ## 👋 Olá, me chamo Eric Naibert!
 #### Bem vindo ao meu perfil no Git Hub
 #### Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica
+#### Estudante de Front End e Java na Alura
 <div>
 <a href="https://github.com/EricNaibert">
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=EricNaibert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricNaibert&layout=compact&langs_count=7&theme=dracula"/>

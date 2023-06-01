@@ -17,5 +17,5 @@
 <a href="https://www.linkedin.com/in/eric-naibert/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a  
 </div>
 
-#### :thumbsup: Estou à dosposição para compartilhar ideias. 
+#### :thumbsup: Estou à disposição para compartilhar ideias. 
 #### :speech_balloon: Se acredita que posso ser útil em algum projeto, fique à vontade para entrar em contato!

@@ -4,12 +4,13 @@
 #### Amo aprender linguagens novas e resolver problemas!
 <div>
 <a href="https://github.com/EricNaibert">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=EricNaibert&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricNaibert&layout=compact&langs_count=7&theme=merko"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricNaibert&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 #### 🌱 Atualmente sigo aprendendo e aprimorando:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" />
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" />
               
 #### 📫 Você pode entrar em contato comigo através dos seguintes canais:
 <div>

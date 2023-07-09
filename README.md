@@ -1,7 +1,7 @@
 ## 👋 Olá, me chamo Eric Naibert!
 #### Bem vindo ao meu perfil no Git Hub
 #### Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica
-#### Amo aprender linguagens novas e resolver problemas!
+#### Amo programar e resolver problemas!
 <div>
 <a href="https://github.com/EricNaibert">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricNaibert&layout=compact&langs_count=7&theme=chartreuse-dark"/>
@@ -9,8 +9,7 @@
 
 #### 🌱 Atualmente sigo aprendendo e aprimorando:
 
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="47" height="47" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="54" height="54" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="54" height="54"/>
               
 #### 📫 Você pode entrar em contato comigo através dos seguintes canais:
 <div>
